@@ -38,7 +38,7 @@ Game "Kertas Gunting Batu" dibuat menggunakan teknologi berikut:
 
 ## Tautan Demo
 
-Anda dapat mencoba demo game "Kertas Gunting Batu" di tautan berikut: [Demo Game](https://contoh-demo-game.com](https://faisalardhani.github.io/Kertas-gunting-batu/)
+Anda dapat mencoba demo game "Kertas Gunting Batu" di tautan berikut: [Demo Game](https://faisalardhani.github.io/Kertas-gunting-batu/)
 
 ---
 
