@@ -1,0 +1,37 @@
+body {
+    background: #1a1a1a;
+}
+
+* {
+    color: #fff;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin: 10px;
+    padding: 5px 10px;
+}
+
+.tangan {
+    font-size: 3rem;
+    margin: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3rem;
+    background-color: #1a1a1a;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.result {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 5px 10px;
+}
+
+.main {
+    font-size: 1.5rem;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
